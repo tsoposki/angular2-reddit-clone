@@ -1,0 +1,27 @@
+{
+  "name": "angular2-reddit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tsoposki/angular2-reddit-clone",
+  "authors": [
+    "Trajche Shoposki <tsoposki@gmail.com>"
+  ],
+  "description": "Simple Reddit clone in Angular2 - example from ng-book2 book.",
+  "main": "index.js",
+  "keywords": [
+    "angular2",
+    "ng2",
+    "ng-book2",
+    "reddit-clone"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "traceur-runtime": "~0.0.91"
+  }
+}
